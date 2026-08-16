@@ -1,0 +1,33 @@
+{
+  "_telegram_offset": 407275983,
+  "VWRA": {
+    "symbol": "VWRA.L",
+    "last_alert_step_ath": 0,
+    "last_alert_step_52w": 0
+  },
+  "SPY": {
+    "symbol": "SPY",
+    "last_alert_step_ath": 0,
+    "last_alert_step_52w": 0
+  },
+  "QQQ": {
+    "symbol": "QQQ",
+    "last_alert_step_ath": 0,
+    "last_alert_step_52w": 0
+  },
+  "TQQQ": {
+    "symbol": "TQQQ",
+    "last_alert_step_ath": 12.0,
+    "last_alert_step_52w": 12.0
+  },
+  "2800": {
+    "symbol": "2800.HK",
+    "last_alert_step_ath": 24.0,
+    "last_alert_step_52w": 9.0
+  },
+  "IAU": {
+    "symbol": "IAU",
+    "last_alert_step_ath": 21.0,
+    "last_alert_step_52w": 21.0
+  }
+}
